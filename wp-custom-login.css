@@ -1,0 +1,47 @@
+#login{
+	padding:20px 0;
+	margin:0 auto;
+	width:1000px;
+}
+#login h1{
+	margin:0 0 20px;
+}
+#login h1 a{
+	color:#00A7E7;
+}
+#login_error{
+	margin:0 0 20px;
+}
+#loginform p{
+	margin:0 0 020px;
+}
+#loginform label{
+	font:14px/16px Arial, Helvetica, sans-serif;
+	color:#009fe3;
+}
+#loginform input[type='text'],
+#loginform input[type='password']{
+	background:#fff;
+	border:1px inset #b2b1b1;
+	width:300px;
+	height:20px;
+	padding:0 10px;
+	margin:5px 0;
+	display:inline-block;
+	
+}
+#loginform input[type='submit']{
+	background:url(images/bg-login.gif) repeat-x;
+	padding:5px 23px;
+	margin:0 0 0 9px;
+	border:1px solid #fff;
+	text-transform:uppercase;
+	color:#fff;
+	font:13px/15px 'HelveticaNeueLTStd-BdCn', Arial, Helvetica, sans-serif;
+	cursor:pointer;
+	-webkit-box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.3);
+}
+#backtoblog a{
+	color:#00A7E7;
+}
